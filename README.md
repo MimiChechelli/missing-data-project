@@ -7,6 +7,6 @@ Faça o clone do repositorio, certifique-se de ter todas as bibliotecas necessar
 
 ## Contato:
 * Nome: Michelli Patricia Luvison
-* LinkdIn: https://www.linkedin.com/in/michelli-luvison-623649268/
+* LinkedIn: https://www.linkedin.com/in/michelli-luvison-623649268/
 * GitHub: https://github.com/MimiChechelli
 * Portfolio: https://sites.google.com/view/michelli-luvison/p%C3%A1gina-inicial
